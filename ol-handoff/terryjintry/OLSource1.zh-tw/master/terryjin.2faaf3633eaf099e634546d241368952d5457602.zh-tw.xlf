@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-us" target-language="zh-tw" original="2/19/2016 3:30:44 PM" tool-id="MarkdownTransformer" product-name="N/A" product-version="N/A" build-num="1">
+    <header>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">a0b65939670bc2c010f4d5d6a0b3e4e4590fb92b</xliffext:olfilehash>
+      <tool tool-id="MarkdownTransformer" tool-name="MarkdownToXliff" tool-version="1.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group extype="content">
+        <group id="101">
+          <trans-unit id="101" xml:space="preserve">
+            <source>Hello World!</source>
+            <target state="new">Hello World!</target>
+          </trans-unit>
+        </group>
+      </group>
+    </body>
+  </file>
+</xliff>
