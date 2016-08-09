@@ -3,21 +3,25 @@
   <file datatype="xml" original="markdown" source-language="en-US" target-language="de-at">
     <header>
       <tool tool-id="mdxliff" tool-name="mdxliff" tool-version="1.0-56a7a5e" tool-company="Microsoft" />
-      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">d94de935dc6e15ea52ec60b39559ea505a0b4511</xliffext:olfilehash>
-      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">OLSource1\v1\terryji(n).md</xliffext:olfilepath>
+      <xliffext:olfilehash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">131a9dc384175f04b6da48ea3527ded3b65b69a4</xliffext:olfilehash>
+      <xliffext:olfilepath xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">OLSource1\v1\Test.md</xliffext:olfilepath>
       <xliffext:oltranslationpriority xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">ht</xliffext:oltranslationpriority>
       <xliffext:oltranslationtype xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">Human Translation</xliffext:oltranslationtype>
-      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">05b537469774a2ecd5a4cf44ed98b4ef5872af41</xliffext:olskeletonhash>
+      <xliffext:olskeletonhash xmlns:xliffext="urn:microsoft:content:schema:xliffextensions">48009d58e0580db4635b68b2b93ddf4c34144a71</xliffext:olskeletonhash>
     </header>
     <body>
       <group id="content" extype="content">
         <trans-unit id="101" translate="yes" xml:space="preserve">
-          <source>dsa</source>
-          <target state="new">dsa</target>
+          <source>Hello World!</source>
+          <target state="new">Hello World!</target>
         </trans-unit>
         <trans-unit id="102" translate="yes" xml:space="preserve">
-          <source>d</source>
-          <target state="new">d</target>
+          <source>haha &lt;xref:System.String&gt;</source>
+          <target state="new">haha &lt;xref:System.String&gt;</target>
+        </trans-unit>
+        <trans-unit id="103" translate="yes" xml:space="preserve">
+          <source>haha @System.String</source>
+          <target state="new">haha @System.String</target>
         </trans-unit>
       </group>
     </body>
